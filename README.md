@@ -1,5 +1,4 @@
-# Console-Prank
-
+# 🖥️👾💥 Console-Prank 💥🎮🕹️
 > A harmless, fun prank that turns your screen into a disco of chaos!  
 > Perfect for tricking your friends or spicing up your boring coding sessions.
 
